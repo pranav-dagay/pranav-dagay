@@ -18,7 +18,7 @@ My focus is **defensive security** — alert triage, log correlation, brute-forc
 
 | Project | Description | Tools |
 |---|---|---|
-| [BOTS v3 SOC Investigation](./bots-v3-soc-investigation) | Full investigation writeup on the Splunk BOTS v3 dataset — brute-force detection, IOC analysis, escalation decisions | Splunk, SPL |
+| [BOTS v3 SOC Investigation](https://github.com/pranav-dagay/bots-v3-soc-investigation) | Full investigation writeup on the Splunk BOTS v3 dataset — brute-force detection, IOC analysis, escalation decisions | Splunk, SPL |
 | KQL Detection Rules *(coming soon)* | Custom detection rules built in Microsoft Sentinel lab | Azure Sentinel, KQL |
 | TryHackMe SOC Level 1 *(coming soon)* | Documented walkthroughs from the SOC Level 1 learning path | Various |
 
