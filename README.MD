@@ -16,8 +16,6 @@ My focus is **defensive security** — alert triage, log correlation, brute-forc
 
 ## 🔍 Featured Projects
 
-## 🔍 Featured Projects
-
 | Project | Description | Tools |
 |---|---|---|
 | [BOTS v3 Web Recon Investigation](https://github.com/pranav-dagay/bots-v3-web-recon-investigation) | Investigation into external web reconnaissance and username enumeration attack against a vBulletin forum server | Splunk, SPL |
