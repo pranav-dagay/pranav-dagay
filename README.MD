@@ -20,6 +20,7 @@ My focus is **defensive security** — alert triage, log correlation, brute-forc
 |---|---|---|
 | [BOTS v3 Web Recon Investigation](https://github.com/pranav-dagay/bots-v3-web-recon-investigation) | Investigation into external web reconnaissance and username enumeration attack against a vBulletin forum server | Splunk, SPL |
 | [BOTS v3 False Positive Triage](https://github.com/pranav-dagay/bots-v3-false-positive-triage) | Cross-sourcetype analysis of anomalous internal host behaviour — closed as false positive | Splunk, SPL |
+| [BOTS v3 SSH Brute Force Investigation](https://github.com/pranav-dagay/bots-v3-ssh-bruteforce-investigation) | DNS anomaly led to discovery of coordinated SSH brute force, successful server compromise, and post-compromise surveillance detection | Splunk, SPL |
 | KQL Detection Rules *(coming soon)* | Custom detection rules built in Microsoft Sentinel lab | Azure Sentinel, KQL |
 | TryHackMe SOC Level 1 *(coming soon)* | Documented walkthroughs from the SOC Level 1 learning path | Various |
 
