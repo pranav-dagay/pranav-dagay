@@ -42,7 +42,6 @@ My focus is **defensive security** — alert triage, log correlation, brute-forc
 - Google Cybersecurity (Coursera) ✅
 - IBM Cybersecurity Badge ✅
 - CompTIA Security+ *(in progress)*
-- Microsoft SC-200 *(in progress)*
 
 ---
 
