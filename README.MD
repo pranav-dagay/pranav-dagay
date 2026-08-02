@@ -28,6 +28,7 @@ I care about detections that survive contact with real data — low false-positi
 | [BOTS v3 Empire C2 Investigation](https://github.com/pranav-dagay/bots-v3-empire-c2-investigation) | Windows Event Log analysis uncovering PowerShell Empire C2 malware on a compromised endpoint | Splunk, SPL |
 
 ---
+
 ## 🛠️ Core Strengths
 
 - **Detection Engineering** — MITRE ATT&CK-mapped detection logic for anomalies, UBA, and DLP; tuned for production false-positive rates
@@ -35,7 +36,9 @@ I care about detections that survive contact with real data — low false-positi
 - **Pipeline Ownership** — Raw log ingestion → normalization → detection, end to end, not just one layer
 - **SIEM Platforms** — Microsoft Sentinel (KQL), IBM QRadar, Splunk (SPL)
 - **Engineering** — Python, Kafka, Redis
+- **SOC Workflows** — Alert triage · Severity classification · IOC investigation · Incident escalation
 
+---
 
 ## 📜 Certifications
 
@@ -43,9 +46,3 @@ I care about detections that survive contact with real data — low false-positi
 - Google Cybersecurity (Coursera) ✅
 - IBM Cybersecurity Badge ✅
 - CompTIA Security+ *(in progress)*
-
----
-
-## 📊 Engineering Philosophy
-
-> I build detections the way I'd want them explained to an incident responder six months from now — clear logic, mapped to a technique, with false-positive conditions documented up front.
