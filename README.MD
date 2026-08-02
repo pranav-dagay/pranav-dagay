@@ -8,11 +8,11 @@
 
 ## About Me
 
-Detection Engineer building production detection content for a SIEM platform — owning the full pipeline from raw log ingestion through normalization to MITRE ATT&CK-mapped detection logic. I've built parsers, dictionaries, and detections (anomalies, UBA, DLP) across providers including Linux, Microsoft, Palo Alto, CrowdStrike, Netskope, Proofpoint, FortiGate, Kaspersky, Zscaler, and CyberArk — deployed live for real customer environments.
+I build detection logic that catches real threats — not proof-of-concepts, production content running in live customer environments. I own the full detection engineering pipeline: taking raw logs from a provider, understanding their structure, building normalization layers, and writing MITRE ATT&CK-mapped detections for anomalies, UBA, and DLP on top of them.
 
-Before this, I cut my teeth in SOC investigation work — alert triage, log correlation, and incident escalation — during a 6-month defence-sector internship at J. Kumar Defence & Aerospace working alongside L2 analysts in Microsoft Sentinel and IBM QRadar.
+I've done this across 10+ enterprise log sources — Linux, Windows, Palo Alto, CrowdStrike, Netskope, Zscaler, CyberArk, FortiGate, Kaspersky, Proofpoint, and more — each with different log formats, different attacker behaviors, and different failure modes to design around.
 
-I document my detection engineering work publicly — sanitized, from-scratch implementations that show how I think through building a detection, not just running one.
+I care about detections that survive contact with real data — low false-positive rates, clear escalation logic, and documented reasoning an incident responder can trust at 3am.
 
 ---
 
@@ -28,17 +28,14 @@ I document my detection engineering work publicly — sanitized, from-scratch im
 | [BOTS v3 Empire C2 Investigation](https://github.com/pranav-dagay/bots-v3-empire-c2-investigation) | Windows Event Log analysis uncovering PowerShell Empire C2 malware on a compromised endpoint | Splunk, SPL |
 
 ---
+## 🛠️ Core Strengths
 
-## 🛠️ Technical Skills
+- **Detection Engineering** — MITRE ATT&CK-mapped detection logic for anomalies, UBA, and DLP; tuned for production false-positive rates
+- **Log Normalization** — Parser & dictionary engineering across 10+ enterprise providers; built to handle malformed, incomplete, and adversarial input
+- **Pipeline Ownership** — Raw log ingestion → normalization → detection, end to end, not just one layer
+- **SIEM Platforms** — Microsoft Sentinel (KQL), IBM QRadar, Splunk (SPL)
+- **Engineering** — Python, Kafka, Redis
 
-- **Detection Engineering:** MITRE ATT&CK-mapped detections, anomaly/UBA/DLP logic, false-positive tuning
-- **Log Normalization:** Parser & dictionary engineering across 8+ enterprise log providers (Linux, Windows, Palo Alto, CrowdStrike, Netskope, Zscaler, CyberArk, FortiGate, Kaspersky, Proofpoint)
-- **SIEM:** Microsoft Sentinel (KQL), IBM QRadar, Splunk (SPL)
-- **SOC Workflows:** Alert triage · Severity classification · Brute-force detection · IOC investigation · Incident escalation
-- **Languages/Tools:** Python, Kafka, Redis
-- **Networking:** TCP/IP, DNS, HTTP/HTTPS, VPN & firewall fundamentals
-
----
 
 ## 📜 Certifications
 
